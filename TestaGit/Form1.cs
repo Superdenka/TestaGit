@@ -21,5 +21,10 @@ namespace TestaGit
         {
             MessageBox.Show("Det här är en knapppt");
         }
+
+        private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
+        }
     }
 }
