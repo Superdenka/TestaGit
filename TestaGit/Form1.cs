@@ -19,7 +19,7 @@ namespace TestaGit
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Det här är en knappp");
+            MessageBox.Show("Det här är en knapppt");
         }
     }
 }
